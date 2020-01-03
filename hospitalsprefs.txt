@@ -1,0 +1,4 @@
+CA, Doris, Charlie, Alex, Barbara
+VT, Barbara, Doris, Alex, Charlie
+WA, Doris, Alex, Charlie, Barbara
+NY, Charlie, Barbara, Alex, Doris

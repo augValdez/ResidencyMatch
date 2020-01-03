@@ -1,0 +1,4 @@
+Alex , CA, VT, WA,NY
+Barbara, CA, NY, WA, VT
+Charlie, VT, CA, WA, NY
+Doris,NY,VT,WA,CA
